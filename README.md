@@ -2,14 +2,14 @@
 
 ## Resources:books:
 Read or watch:
-* [Learn to Code HTML & CSS](https://intranet.hbtn.io/rltoken/qq7qrSgdVRuD1kPd_jf7Fw)
-* [Inline Styles in HTML](https://intranet.hbtn.io/rltoken/Hx5KFagrj9L-HtAZ8SHK1Q)
-* [Specifics on CSS Specificity](https://intranet.hbtn.io/rltoken/sO3wz-QbhwYdKJqvokC4PA)
-* [CSS SpeciFishity](https://intranet.hbtn.io/rltoken/NvqQf3dgY64bb-QWC5Cueg)
-* [Introduction to HTML](https://intranet.hbtn.io/rltoken/STaxnOI5qv1enUuwIALelw)
-* [CSS](https://intranet.hbtn.io/rltoken/g-uj9Azx1rALX49xCZHK0w)
-* [MDN](https://intranet.hbtn.io/rltoken/El1BHRNNO2hPEcOt_XwF-Q)
-* [center boxes](https://intranet.hbtn.io/rltoken/HI0qRNDq20cgICIhO18kUQ)
+* [Learn to Code HTML & CSS](https://learn.shayhowe.com/html-css/)
+* [Inline Styles in HTML](https://www.codecademy.com/article/html-inline-styles)
+* [Specifics on CSS Specificity](https://css-tricks.com/specifics-on-css-specificity/)
+* [CSS SpeciFishity](http://www.standardista.com/wp-content/uploads/2012/01/specificity3.pdf)
+* [Introduction to HTML](https://developer.mozilla.org/en-US/docs/Learn/HTML/Introduction_to_HTML)
+* [CSS](https://developer.mozilla.org/en-US/docs/Learn/CSS)
+* [MDN](https://developer.mozilla.org/en-US/)
+* [center boxes](https://css-tricks.com/centering-css-complete-guide/)
 
 ---
 ## Learning Objectives:bulb:
